@@ -5,17 +5,17 @@ div {
     opacity: 0.5;
   }
   
-  .box1 {
+  .shape1 {
     background: red;
   }
   
-  .box2 {
+  .shape2 {
     background: green;
     top: 50px;
     left: 50px;
   }
   
-  .box3 {
+  .shape3 {
     background: blue;
     top: 100px;
     left: 100px;
