@@ -1,0 +1,23 @@
+div {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    opacity: 0.5;
+  }
+  
+  .box1 {
+    background: red;
+  }
+  
+  .box2 {
+    background: green;
+    top: 50px;
+    left: 50px;
+  }
+  
+  .box3 {
+    background: blue;
+    top: 100px;
+    left: 100px;
+  }
+  
